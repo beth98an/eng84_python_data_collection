@@ -42,8 +42,7 @@ print(shopping_list)
 shopping_list.pop()
 print(shopping_list)
 ```
-
--You can mix data types in a list.
+- You can mix data types in a list.
 ```
 mixed_list = [1, 2, 3, "one", "two", "three"]
 print(mixed_list)
